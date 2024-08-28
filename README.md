@@ -6,4 +6,5 @@ Barberia Alura como parte de la formacion en ORACLE NEXT EDUACTION con Alura Lat
 -----Imagen a nivel Visual del Proycto Creado en clase---
 
 -Funciones: -Proveer los datos necesarios al cliente de todo lo que ofrece dicha barberia 
-'Algunas modificaciones realizadas'
+
+'Algunas modificaciones realizadas en dicho proyacto que lo hacen un poco distinto al original realizado en el curso'
